@@ -1,0 +1,108 @@
+// @import url('https://fonts.googleapis.com/css2?family=Chau+Philomene+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+$black: #1C2331;
+$blue: #142051;
+$font: #FE7A7C;
+
+*{
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+    background: $blue;
+    text-decoration: unset;
+}
+
+.nav {
+    border-bottom: solid  $blue 1px;
+    background:$black;
+    padding: 1px;
+    h1 {
+        margin-left: 5%;
+        color: $font;
+        width: 100%;
+        text-decoration: none;
+
+    }
+}
+
+Link {
+    text-decoration: unset;
+}
+
+.manageCont {    
+    display: flex;
+    height: 100%;
+    border: $blue;
+    
+    .left {
+        text-align: center;
+        width: 30vw;
+        background: $blue;
+        justify-content: center;
+        
+        .admin {
+            margin-top: 20%;
+            h1 {
+                color: $font;
+            }
+        }
+
+        .signout h1{
+            position: fixed;
+            bottom: 0;
+            color: $font;
+            
+        }
+    }
+    
+    .right {
+        width: 70vw;
+        background-color: $black;
+        color: white !important;
+        
+        .userHeader {
+            text-align: center;
+            background-color: $black;
+            border-bottom: $blue groove;
+            h1 {
+                color: white;
+            }
+        }
+    }
+}
+
+.artForm {
+    margin: 1%;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: 0 auto;
+
+    label {
+        color: white;
+        text-align: center;
+        // font-size: 24px;
+    }
+
+    input {
+        padding: 1%;
+        text-align: center;
+        margin: 1%;
+    }
+}
+
+.add {
+    display: flex;
+    margin: 0 auto;
+    margin-left: 70%;
+}
+
+
+#pagi {    
+    display: flex;
+    margin: 0 auto;
+}

@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "bigOne",
+      "password": "bigOne"
+    },
+    {
+      "id": "2",
+      "username": "voa297",
+      "password": "ohbang!"
+    },
+    {
+      "username": "sweet",
+      "password": "sweetPotato",
+      "id": "83HJmxK"
+    },
+    {
+      "username": "1dv",
+      "password": "dvdvd",
+      "id": "W5UUklg"
+    }
+  ],
+  "list": [
+    {
+      "id": "1",
+      "username": "dolly",
+      "password": "dolly12324"
+    },
+    {
+      "id": "2",
+      "username": "dolly",
+      "password": "dolly12324"
+    },
+    {
+      "username": "Tosinnijis",
+      "password": "bigbang124",
+      "id": "5-V9Njv"
+    }
+  ],
+  "articles": [
+    {
+      "id": "1",
+      "title": "Herald of the last days. Vol. 2",
+      "content": "ipsum lorem ipsum lorem",
+      "image": "http://1.bp.blogspot.com/-Ctv1m-63Q7Q/TozUCb70gQI/AAAAAAAAAfw/UQk-nUN3NHM/s1600/beautiful+nature+scenery-1.jpg",
+      "date": "11/12/2020"
+    },
+    {
+      "id": "1",
+      "title": "Herald of the last days. Vol. 2",
+      "content": "ipsum lorem ipsum lorem",
+      "image": "",
+      "date": "11/12/2020"
+    }
+  ],
+  "audios": [
+    {
+      "id": "1",
+      "title": "new horizon",
+      "audio_link": "1",
+      "image": "",
+      "desc": "lorem ipsum",
+      "created_at": "06/03/2020"
+    },
+    {
+      "id": "2",
+      "title": "new horizon",
+      "audio_link": "2",
+      "image": "",
+      "desc": "lorem ipsum",
+      "created_at": "06/03/2020"
+    },
+    {
+      "id": "3",
+      "title": "new horizon",
+      "audio_link": "3",
+      "image": "",
+      "desc": "lorem ipsum",
+      "created_at": "06/03/2020"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "new horizon",
+      "book_link": "",
+      "author": "",
+      "cover_image": "",
+      "desc": "lorem ipsum",
+      "created_at": "11/12/2020"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "",
+      "title": "new horizon",
+      "image": "",
+      "testimony": "",
+      "created_at": "11/12/2020"
+    }
+  ]
+}
